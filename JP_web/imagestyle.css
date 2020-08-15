@@ -1,0 +1,25 @@
+.btn {
+    display: inline-block;
+}
+
+.btn:hover {
+    background: lightgrey;
+}
+
+.imagedisplay {
+    text-align: center;
+    border: black;
+    border-width: 10px;
+}
+
+.img {
+    height: 700px;
+    vertical-align: middle;
+    border: grey;
+    border-width: 10px;
+}
+
+.img:hover {
+    text-decoration: none;
+    border: black;
+}
