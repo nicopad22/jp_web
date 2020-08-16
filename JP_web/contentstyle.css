@@ -1,3 +1,7 @@
+body {
+    font-size-adjust: 1vh;
+}
+
 .header {
     background-color: rgb(150, 56, 47);
     padding: 0px;
@@ -19,7 +23,7 @@
 }
 
 footer {
-    height: 10vh;
+    height: 15vh;
     background-color: black;
     color: white;
     padding: 10px;
